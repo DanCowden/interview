@@ -1,5 +1,9 @@
-2. Create a new file within this repository.
 
-3. Update the original remote repository with your new file. 
+# Exercise 2
+Create a new file within this repository.
 
-4. Return to your home directory and view file instructions3.txt for further information.
+# Exercise 3
+Update the original remote repository with your new file. 
+
+Return to your home directory and view file instructions3.txt for further information.
+
